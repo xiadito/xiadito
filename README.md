@@ -28,7 +28,7 @@ Tenho formação técnica em Programação de Jogos Digitais pelo SENAI e, duran
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude_Haiku-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-
+<!--
 ### O que está sendo construído
 
 | Feat | Descrição | Status |
@@ -40,7 +40,7 @@ Tenho formação técnica em Programação de Jogos Digitais pelo SENAI e, duran
 | Inbox do Operador | Handoff manual, takeover de conversa pelo dono | ⏳ Planejado |
 | Dashboard | Painel de pedidos | ✅ Completo |
 | Deploy | Railway com Gunicorn + PostgreSQL em produção | ✅ Deploy para testes apenas |
-
+-->
 
 **[→ Ver repositório](https://github.com/xiadito/AtendenteIA)**
 
@@ -57,6 +57,7 @@ Tenho formação técnica em Programação de Jogos Digitais pelo SENAI e, duran
 ![Anthropic](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Evolution_API-2496ED?style=flat&logo=docker&logoColor=white)
 
+<!--
 ### O que está sendo construído
 
 | Feat | Descrição | Status |
@@ -70,7 +71,7 @@ Tenho formação técnica em Programação de Jogos Digitais pelo SENAI e, duran
 | Aprovação Manual | Fluxo de curadoria + webhooks antes do envio | ⏳ Planejado |
 | Agendamento | APScheduler orquestrando todas as etapas | ⏳ Planejado |
 | Deploy | VPS Hetzner/Contabo com configuração de produção | ⏳ Planejado |
-
+-->
 
 
 **[→ Ver repositório](https://github.com/xiadito/deals-bot)**
