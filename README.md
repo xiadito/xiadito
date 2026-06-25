@@ -78,6 +78,9 @@ Tenho formação técnica em Programação de Jogos Digitais pelo SENAI e, duran
 ## 📫 Contato
 - LinkedIn: [Isac Alves](https://www.linkedin.com/in/isacalves-dev/)
 - Email: isac.alves.dias.contact@gmail.com
+
+
+Sadhu 🙏
 <!--
 **xiadito/xiadito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
