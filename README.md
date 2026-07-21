@@ -3,7 +3,7 @@
 Tenho formação técnica em Programação de Jogos Digitais pelo SENAI e, durante o Ensino Médio, desenvolvi alguns projetos de jogos disponíveis no meu GitHub. Atualmente, curso Bacharelado em Estatística e estou construindo novas aplicações para aprender na prática e consolidar um portfólio robusto. Paralelamente, estudo a teoria por trás do desenvolvimento de software, como estruturas de dados, algoritmos e boas práticas de engenharia. Meu foco principal é atuar na área de dados dentro da programação, mas também tenho forte interesse por desenvolvimento de software e por infraestrutura e redes.
 
 ##  Sobre mim
--  Atualmente trabalhando em: [deals-bot](https://github.com/xiadito/deals-bot)
+-  Atualmente trabalhando em: [AtendenteIA](https://github.com/xiadito/AtendenteIA) - Focando em entrega para cliente
 -  Aprendendo: Arch Linux - Atualmente usando Dual boot: W11 para jogar e Arch Linux para trabalho.
 -  Rio de Janeiro - RJ, Brasil
 
