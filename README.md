@@ -4,7 +4,7 @@ Tenho formação técnica em Programação de Jogos Digitais pelo SENAI e, duran
 
 ##  Sobre mim
 -  Atualmente trabalhando em: [deals-bot](https://github.com/xiadito/deals-bot)
--  Aprendendo: Arch Linux, quero migrar para essa distro do linux e sair do W11
+-  Aprendendo: Arch Linux - Atualmente usando Dual boot: W11 para jogar e Arch Linux para trabalho.
 -  Rio de Janeiro - RJ, Brasil
 
 ## 🛠️ Tech Stack
