@@ -6,7 +6,13 @@
 </p>
 
 <p align="center">
-  Python · SQL · dbt · Airflow · Spark · Snowflake · AWS
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white" alt="dbt">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" alt="Snowflake">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS">
 </p>
 
 <p align="center">
@@ -35,7 +41,7 @@ Tenho formação técnica em **Programação de Jogos Digitais pelo SENAI** e cu
 
 | | |
 |---|---|
-| 🔭 **Trabalhando em** | `erp_r` — projeto de engenharia de dados 🔒 *(repositório privado)* |
+| 🔭 **Trabalhando em** | **ERP_R** — SaaS de controle de caixa e fechamento financeiro 🔒 *(repositório privado)* |
 | 🚀 **Projetos próprios** | [AtendenteIA](https://github.com/xiadito/AtendenteIA) · [deals-bot](https://github.com/xiadito/deals-bot) |
 | 🎓 **Formação** | Estatística (UERJ) · Técnico em Programação de Jogos Digitais (SENAI) |
 | 🐧 **Ambiente** | Arch Linux para trabalho, dual boot com Windows 11 para jogar |
@@ -55,6 +61,13 @@ Tenho formação técnica em **Programação de Jogos Digitais pelo SENAI** e cu
 ---
 
 ## 💼 Projetos
+
+### 💰 ERP_R — SaaS de controle de caixa e fechamento financeiro
+
+> Sistema web onde se lança entrada/saída de dinheiro no dia a dia e, no fim do mês, sai o fechamento financeiro pronto — com uma camada de IA (futura) que lê os números e sugere melhorias.
+
+![Privado](https://img.shields.io/badge/Reposit%C3%B3rio-privado-6E7781?style=flat&logo=github&logoColor=white)
+![Em desenvolvimento](https://img.shields.io/badge/Status-em_desenvolvimento-FFB302?style=flat)
 
 ### 🤖 AtendenteIA — atendimento no WhatsApp com IA generativa
 
